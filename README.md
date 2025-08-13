@@ -2,5 +2,5 @@
 ---
 ### Course Link - https://www.coursera.org/learn/applied-data-science-capstone
 ---
-### Course Certificate - https://www.coursera.org/account/accomplishments/certificate/5KMEF20KI7D2
+### Certificate - https://www.coursera.org/account/accomplishments/certificate/5KMEF20KI7D2
 ---
