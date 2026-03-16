@@ -31,6 +31,7 @@ The methodology used throughout the project includes:
 - Classification machine learning models
 
 ## Project Architecture
+```
 Raw Data Sources
 │
 ├── SpaceX REST API
