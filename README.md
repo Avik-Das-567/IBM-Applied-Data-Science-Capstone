@@ -30,6 +30,39 @@ The methodology used throughout the project includes:
 - Interactive dashboards
 - Classification machine learning models
 
+## Project Architecture
+Raw Data Sources
+│
+├── SpaceX REST API
+├── Wikipedia Web Scraping
+│
+↓
+Data Processing (Pandas)
+│
+↓
+Exploratory Data Analysis
+│
+├── SQL Analysis
+├── Matplotlib / Seaborn Visualizations
+│
+↓
+Interactive Analytics
+│
+├── Folium Geospatial Map
+├── Plotly Dash Dashboard
+│
+↓
+Machine Learning Models
+│
+├── Logistic Regression
+├── SVM
+├── Decision Tree
+└── KNN
+│
+↓
+Landing Success Prediction
+```
+
 ## Data Collection
 
 ### SpaceX API Data Collection
@@ -259,7 +292,6 @@ Module 4 – Machine Learning Prediction
    SpaceX ML Prediction Notebook
 
 Final Presentation
-README.md
 ```
 
 ## Future Improvements
