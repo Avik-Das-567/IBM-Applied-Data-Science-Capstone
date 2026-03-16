@@ -16,11 +16,9 @@ This project aims to:
 
 ## Project Workflow
 The project follows a complete data science lifecycle:
-```
-Data Collection → Data Wrangling → Exploratory Data Analysis
-→ Interactive Visual Analytics → Dashboard Development
-→ Machine Learning Modeling → Insights & Conclusions
-```
+
+**Data Collection → Data Wrangling → Exploratory Data Analysis → Interactive Visual Analytics → Dashboard Development → Machine Learning Modeling → Insights & Conclusions**
+
 The methodology used throughout the project includes:
 - API data collection
 - Web scraping
@@ -275,24 +273,28 @@ From exploratory analysis and modeling:
 ## Project Structure
 ```
 IBM-Applied-Data-Science-Capstone
-
-Module 1 – Introduction
-   Data Collection API
-   Web Scraping
-   Data Wrangling
-
-Module 2 – Exploratory Data Analysis
-   EDA with SQL
-   EDA with Visualization
-
-Module 3 – Interactive Visual Analytics
-   Folium Map
-   Plotly Dash Dashboard
-
-Module 4 – Machine Learning Prediction
-   SpaceX ML Prediction Notebook
-
-Final Presentation
+│
+├─ Module 1 – Introduction
+│   ├─ Data Collection → SpaceX REST API
+│   ├─ Data Collection → Web Scraping (Wikipedia)
+│   └─ Data Wrangling
+│
+├─ Module 2 – Exploratory Data Analysis
+│   ├─ EDA with SQL
+│   └─ EDA with Visualization (Matplotlib / Seaborn)
+│
+├─ Module 3 – Interactive Visual Analytics
+│   ├─ Interactive Map → Folium
+│   └─ Interactive Dashboard → Plotly Dash
+│
+├─ Module 4 – Predictive Analysis (Machine Learning)
+│   └─ Landing Success Prediction Models
+│        ├─ Logistic Regression
+│        ├─ Support Vector Machine (SVM)
+│        ├─ Decision Tree
+│        └─ K-Nearest Neighbors (KNN)
+│
+└─ Final Presentation
 ```
 
 ## Future Improvements
