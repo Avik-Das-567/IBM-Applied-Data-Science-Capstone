@@ -1,10 +1,8 @@
 # SpaceX Falcon 9 Landing Prediction | IBM Applied Data Science Capstone
-Built an end-to-end data science project to predict whether the **SpaceX Falcon 9 first-stage booster will land successfully** using data science and machine learning techniques. The project demonstrates a complete **data science pipeline**, including data collection, data wrangling, exploratory data analysis, interactive visualization, dashboard development, and predictive modeling. It was completed as part of the **IBM Applied Data Science Capstone**, with the goal of generating data-driven insights to estimate rocket launch costs and support competitive launch bidding strategies.
+Predicting whether the **SpaceX Falcon 9 first-stage booster** will land successfully, using data science and machine learning techniques. This project demonstrates an **end-to-end data science pipeline**, including data collection, data wrangling, exploratory analysis, interactive visualization, dashboard development, and predictive modeling. The project is part of the **IBM Applied Data Science Capstone**, where the objective is to generate data-driven insights that can help estimate rocket launch costs and support competitive launch bidding strategies.
 
 ## Project Background
-SpaceX advertises Falcon 9 rocket launches for approximately **$62 million**, significantly cheaper than other providers that charge **$165 million** or more. The primary reason for this cost advantage is **first-stage booster reusability**.
-
-Predicting whether the **first-stage booster will land successfully** is critical because reusable boosters drastically reduce launch costs.
+SpaceX advertises Falcon 9 rocket launches for approximately **$62 million**, significantly cheaper than other providers that charge **$165 million** or more. The primary reason for this cost advantage is **first-stage booster reusability**. Predicting whether the **first-stage booster will land successfully** is critical because reusable boosters drastically reduce launch costs.
 
 This project aims to:
 - Analyze historical Falcon 9 launch data
