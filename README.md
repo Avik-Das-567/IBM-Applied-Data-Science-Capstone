@@ -8,6 +8,42 @@ SpaceX advertises Falcon 9 rocket launches at approximately **$62 million**, com
 
 ---
 
+## 🏗️ Project Architecture
+```
+Raw Data Sources
+│
+├── SpaceX REST API
+├── Wikipedia Web Scraping
+│
+↓
+Data Processing (Pandas)
+│
+↓
+Exploratory Data Analysis
+│
+├── SQL Analysis
+├── Matplotlib / Seaborn Visualizations
+│
+↓
+Interactive Analytics
+│
+├── Folium Geospatial Map
+├── Plotly Dash Dashboard
+│
+↓
+Machine Learning Models
+│
+├── Logistic Regression
+├── SVM
+├── Decision Tree
+└── KNN
+│
+↓
+Landing Success Prediction
+```
+
+---
+
 ## 🗂️ Repository Structure
 
 ```
